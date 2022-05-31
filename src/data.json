@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "button": "Case Study",
+      "heading": "Amazon Gift Pay",
+      "device": "Desktop - Mobile",
+      "image": "../amazon.png"
+    },
+    {
+      "id": 2,
+      "button": "Case Study",
+      "heading": "Amazon Gift Pay",
+      "device": "Desktop - Mobile",
+      "image": "../amazon.png"
+    },
+    {
+      "id": 3,
+      "button": "Case Study",
+      "heading": "Apple Gift Payment",
+      "device": "MacOS - Mobile",
+      "image": "../apple.png"
+    }
+  ]
